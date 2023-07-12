@@ -143,7 +143,7 @@ id,parentId,name_en,name_fr,acronym_en,acronym_fr,itap_contributor
 044022,044020,Injury & Suicide Surveillance Team,L’équipe de surveillance des blessures et suicide,ISST,ESBS,yes
 044023,044020,Positive Mental Health & Healthy Living Surveillance Team,L’équipe de surveillance santé mentale positive et modes de vie saine,PMHST,ESSMPMV,yes
 044030,044000,Business Coordination Team,Équipe de coordination des activités,BCT,ECA,no
-044040,044000,Collaboration on Data Inegration & Development,Collaboration sur l’intégration et le développement de données,CDID,CIDD,yes
+044040,044000,Collaboration on Data Integration & Development,Collaboration sur l’intégration et le développement de données,CDID,CIDD,yes
 044041,044040,Chief Coroners & Chief Medical Examiners - Public Health Collaborative,Collectif de santé publique et des coroners et médecins légistes en chef,CCCMEPHC,CSPDMLC,yes
 044042,044040,Horizontal Surveillance Integration,Integration de surveillance horizontale,HSI,ISH,yes
 044050,044000,Lifespan Chronic Diseases & Conditions Division,Division des maladies et affections chroniques au cours de la vie,LCDC,CMACV,yes
